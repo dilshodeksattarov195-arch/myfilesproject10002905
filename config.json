@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterretch",
+        "uuid": 14280980,
+        "checksum": "5tn4ha"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
